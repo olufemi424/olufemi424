@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olu
-- 👀 I’m interested in Software Development
+- 👀 I’m a Software Engineer
 - 🌱 I’m currently learning Project Architecture Management
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me olufemiaf.info
